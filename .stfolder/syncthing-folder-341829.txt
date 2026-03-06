@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: knaxl-hd2wp
+created: 2026-03-03T09:07:56-08:00

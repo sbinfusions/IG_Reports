@@ -1,0 +1,65 @@
+{
+  "cachedStatsigGates": {
+    "tengu_prompt_suggestion": true,
+    "tengu_vscode_review_upsell": false,
+    "tengu_year_end_2025_campaign_promo": false,
+    "tengu_streaming_tool_execution2": false,
+    "tengu_vscode_onboarding": false
+  },
+  "cachedDynamicConfigs": {
+    "tengu_1p_event_batch_config": {
+      "scheduledDelayMillis": 5000,
+      "maxExportBatchSize": 200,
+      "maxQueueSize": 8192
+    }
+  },
+  "cachedGrowthBookFeatures": {
+    "tengu_mcp_tool_search": true,
+    "tengu_disable_bypass_permissions_mode": false,
+    "strawberry_granite_flag": "N/A",
+    "persimmon_marble_flag": "N/A",
+    "tengu_tool_pear": false,
+    "tengu_thinkback": false,
+    "tengu_ant_attribution_header_new": true,
+    "tengu_1p_event_batch_config": {
+      "scheduledDelayMillis": 5000,
+      "maxExportBatchSize": 200,
+      "maxQueueSize": 8192
+    },
+    "tengu_pid_based_version_locking": true,
+    "tengu_event_sampling_config": {},
+    "tengu_tool_search_unsupported_models": null,
+    "tengu_scratch": false,
+    "tengu_log_segment_events": false,
+    "tengu_log_datadog_events": true,
+    "tengu_streaming_tool_execution2": false,
+    "tengu_vscode_review_upsell": false,
+    "tengu_vscode_onboarding": false,
+    "tengu_c4w_usage_limit_notifications_enabled": true,
+    "enhanced_telemetry_beta": false,
+    "tengu_bash_haiku_prefetch": true,
+    "tengu_claudeai_mcp_connectors": false,
+    "tengu_keybinding_customization": false
+  },
+  "userID": "8749eee05397c519b68f6fbd54f5524b3785128f34ff0034b8349c8fbcb53e9f",
+  "firstStartTime": "2025-12-24T16:37:54.040Z",
+  "sonnet45MigrationComplete": true,
+  "opus45MigrationComplete": true,
+  "thinkingMigrationComplete": true,
+  "opusProMigrationComplete": true,
+  "oauthAccount": {
+    "accountUuid": "833189c5-51ee-43d1-bf6f-e9d316366960",
+    "emailAddress": "azurebarrage@gmail.com",
+    "organizationUuid": "c0367f18-f48b-4e48-8fef-ef046b060503",
+    "hasExtraUsageEnabled": false,
+    "billingType": "stripe_subscription",
+    "displayName": "Julian"
+  },
+  "s1mAccessCache": {
+    "c0367f18-f48b-4e48-8fef-ef046b060503": {
+      "hasAccess": false,
+      "hasAccessNotAsDefault": false,
+      "timestamp": 1769079221175
+    }
+  }
+}
